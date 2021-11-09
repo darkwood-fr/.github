@@ -26,11 +26,11 @@ Keys skills :
 ## Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Vie privée Numérique](https://blog.darkwood.fr/article/vie-privee-numerique)
 - [Les Monades et leur utilisation en PHP](https://blog.darkwood.fr/article/les-monades-et-leur-utilisation-en-php)
 - [Hackathon no-code de la French Tech Grande Provence](https://blog.darkwood.fr/article/hackathon-no-code-de-la-french-tech-grande-provence)
 - [Typescript](https://uniflow.io/blog/2021-09-05-typescript)
 - [React Redux to React Context](https://uniflow.io/blog/2021-08-27-redux-to-context)
-- [Matomo](https://uniflow.io/blog/2021-08-25-matomo)
 <!-- BLOG-POST-LIST:END -->
 
 ## Links
